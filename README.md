@@ -117,6 +117,10 @@ Bioconcentration factor (BCF) > 1 for both → hyperaccumulator status.
 
 ---
 
+## 5.1 Image and Reserch documentery
+
+<img width="474" height="240" alt="image" src="https://github.com/user-attachments/assets/a5d9e36c-df9d-4363-b4bf-97ef88ed71e5" />
+
 ## 6. Repository Structure
 
 ```bash
