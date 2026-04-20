@@ -195,19 +195,3 @@ Code is under MIT License.
 - Funding: [Grant number or "self-funded"]
 
 ---
-
-## 📞 Contact
-
-For questions, collaboration, or access to raw sensor data, open an Issue or email:  
-**your.email@example.com**
-
----
-
-*Last updated: 2025-01-15*
-```
-
----
-
-You can replace placeholders (`[ ]`) with your actual data, change the plant species (e.g., duckweed, water lettuce), or adapt the method to **AI-based plant control**, **hydropower efficiency**, or **wastewater microbiology**.  
-
-Would you like me to tailor this to a specific type of water plant (e.g., algae bioreactor, floating wetland) or to a purely computational model?
