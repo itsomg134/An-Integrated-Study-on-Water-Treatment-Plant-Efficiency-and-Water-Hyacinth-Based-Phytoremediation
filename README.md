@@ -1,11 +1,11 @@
 # An Integrated Study on Water Treatment Plant Efficiency and Water Hyacinth-Based Phytoremediation
 
-## 📄 Research Paper (Project Documentation)
+## Research Paper (Project Documentation)
 
-**Authors:** [Your Name / Team Name]  
-**Affiliation:** [Your Institution / GitHub Organization]  
-**Date of Publication:** [YYYY-MM-DD]  
-**Corresponding Author:** [your.email@example.com]  
+**Authors:** Om Gedam  
+**Affiliation:** Shivaji University / IT
+**Date of Publication:** 2026-04-20 
+**Corresponding Author:** omgedam123098@gmail.com
 
 ---
 
